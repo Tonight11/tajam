@@ -210,11 +210,11 @@ new Swiper(".header__main", {
 	// freeMode: true,
 
 
-	// autoplay: {
-	// 	delay: 2000,
-	// 	stopOnLastSlide: true,
-	// 	disableOnInteraction: false,
-	// },
+	autoplay: {
+		delay: 2000,
+		stopOnLastSlide: true,
+		disableOnInteraction: false,
+	},
 
 	speed: 800,
 
