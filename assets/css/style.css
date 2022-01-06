@@ -988,6 +988,7 @@ body.lock {
 
 .footer__logo {
     margin-bottom: 3.5rem;
+    z-index: 1;
 }
 
 @media screen and (max-width: 727px) {
